@@ -1,4 +1,4 @@
-# Machine Learning Project: ETH IntroML
+# IntroML Projects
 
 This repository contains solutions for multiple tasks as part of the ETH Introduction to Machine Learning course. Each task focuses on a specific machine learning problem, including linear regression, ridge regression, feature engineering, medical data prediction, and food image triplet prediction.
 
